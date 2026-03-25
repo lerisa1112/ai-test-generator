@@ -1,16 +1,45 @@
-# ai_test_generator_app
+# 🤖 AI Test Generator (Flutter + Gemini)
 
-A new Flutter project.
+An AI-powered Flutter application that generates **Dart unit tests automatically** using Google Gemini API.
 
-## Getting Started
+🚀 Built as an experimental project inspired by GSoC ideas (LLM + test generation).
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔥 Generate Dart unit tests instantly
+- 🧠 Uses Gemini AI (LLM)
+- 🧪 Covers edge cases automatically
+- 💬 ChatGPT-style UI
+- 🌙 Dark / Light mode toggle
+- 📋 Copy generated tests
+- 🧹 Clear chat / new session
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Demo
+
+<img width="1910" height="963" alt="image" src="https://github.com/user-attachments/assets/29457a02-3134-4fd5-b335-a6ba34e43b1a" />
+<img width="1910" height="958" alt="image" src="https://github.com/user-attachments/assets/2bb36eb7-9f12-4489-89d0-ef656392f5db" />
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Gemini API (Google AI)
+- HTTP package
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone repo
+
+```bash
+git clone https://github.com/lerisa1112/ai-test-generator.git
+cd ai-test-generator
